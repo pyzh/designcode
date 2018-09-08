@@ -1,3 +1,4 @@
+theme: jekyll-theme-leap-day
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -20,11 +21,3 @@ description: > # this means to ignore newlines until "baseurl:"
  阶段性问题整理
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-theme: jekyll-theme-leap-day
-markdown: kramdown
-
-lang: zh-CN
-
-date_format: "%Y-%m-%d"
