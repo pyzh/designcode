@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Design+Code 新版优化阶段问题整理
 
-You can use the [editor on GitHub](https://github.com/Miidii/designcode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Design+Code 新上线，目前存在一些问题，
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## ~~1. 用户登录后提示不是 Pro 需要升级~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+已反馈，Design Code 团队手动处理
 
-```markdown
-Syntax highlighted code block
+金数据收集：[https://jinshuju.net/f/HbaeLA](https://jinshuju.net/f/HbaeLA)
 
-# Header 1
-## Header 2
-### Header 3
+## ~~2. App 无法登录~~
 
-- Bulleted
-- List
+已反馈
 
-1. Numbered
-2. List
+## ~~3. 收不到登录邮件魔法链接~~
 
-**Bold** and _Italic_ and `Code` text
+目前需要科学上网
 
-[Link](url) and ![Image](src)
-```
+## ~~4. QQ 邮箱收不到登录邮件~~
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+告诉用户上邮箱里的自助查询，收件查询里可以看到被系统拦截，可以点击取回
 
-### Jekyll Themes
+## 5. 没有兑换页面
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Miidii/designcode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+已反馈
 
-### Support or Contact
+## 6. 浏览器 console 报错
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 7. 视频无法播放
+
+[https://designcode.io/ios11-iphone-x](https://designcode.io/ios11-iphone-x)
+
+## 8. 视频压坏了
+
+[https://designcode.io/downloads](https://designcode.io/downloads)
+
+部分视频下载后无法播放
+
+目前已经解决
+
+## 9. 资源加载问题
+
+[https://designcode.io/after-effects-character-animation-part1/](https://designcode.io/after-effects-character-animation-part1/) 
+
+[](https://www.notion.so/6989a75f619448888e7a4c0374818063#452e66ccbd1241a5b8156eace5a3daf2)
